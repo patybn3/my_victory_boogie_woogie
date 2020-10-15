@@ -1,5 +1,5 @@
 # Assigment 5-4
-Student ID: 00318934
+
 ### Name: Patricia Antlitz
 Professor Ethel Schuster
 Introduction to Computer Science CIS-140
@@ -18,4 +18,4 @@ https://stackoverflow.com/questions/12701437/make-a-loop-that-draws-lines-in-pro
 
 This assigment is a training on Processing. It demostrate the creation of
 patterns on the screen to create an specific image inspired on the art piece
-Victory Boogie Woogie by Piet Mondrian. 
+Victory Boogie Woogie by Piet Mondrian.
