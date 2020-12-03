@@ -19,3 +19,5 @@ https://stackoverflow.com/questions/12701437/make-a-loop-that-draws-lines-in-pro
 This assigment is a training on Processing. It demostrate the creation of
 patterns on the screen to create an specific image inspired on the art piece
 Victory Boogie Woogie by Piet Mondrian.
+
+<img width="500" alt="assignment5-4_patricia_antlitz00318934" src="https://user-images.githubusercontent.com/59259041/100962463-57850f00-34f2-11eb-8d0a-1f42cf987d5d.png">
